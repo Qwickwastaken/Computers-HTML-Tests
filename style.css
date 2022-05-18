@@ -1,0 +1,21 @@
+p {
+    color: red;
+}
+span {
+    color: blue
+}
+li {
+    width: 250px;
+  border: 15px solid royalblue;
+  padding: 25px;
+  margin: 20px;
+}
+body {
+    
+    background-image: linear-gradient(to bottom right, rgb(0, 225, 255), yellow);
+    
+}
+h2 {
+    color: lightcoral
+}
+
